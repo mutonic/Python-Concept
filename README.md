@@ -16,31 +16,31 @@ In Python, strings are sequences of characters and are defined using single or d
 
 Control flow statements, such as if, elif, and else, are used to control the flow of a program based on certain conditions. They allow for the execution of different code depending on the outcome of a given condition.
 
-#Loops
+# Loops
 
 Loops, such as for and while, are used to execute a block of code multiple times. They can be used to iterate through a list, tuple, or other iterable object.
 
-#Lists
+# Lists
 
 In Python, lists are a type of data structure that can store a collection of items. They can be accessed and modified using indexing and slicing.
 
-#Tuples
+# Tuples
 
 Tuples are similar to lists, but are immutable, meaning they cannot be modified after they are created. They are defined using parentheses and can be used to store multiple items of different types
 
-#Functions
+# Functions
 
 Functions are reusable blocks of code that can be called multiple times. They can take in parameters and return a value.
 
-#Dictionaries
+# Dictionaries
 
 Dictionaries are a type of data structure that store key-value pairs. They are defined using curly braces {} and can be used to store data such as a person's name and age.
 
-#Sets
+# Sets
 
 Sets are unordered collections of unique elements. They are defined using curly braces {} and can be used to store data such as a list of unique words in a text.
 
-#Booleans
+# Booleans
 
 Booleans are a data type that can have one of two values: True or False. They are used in control flow statements and other logic operations.
 
@@ -52,11 +52,11 @@ Python has built-in functions for reading and writing files. This allows for the
 
 Lambda functions are small, anonymous functions that can be defined without a name. They are often used in conjunction with other functions such as filter() and map().
 
-#List Comprehensions
+# List Comprehensions
 
 List comprehensions are a concise way to create a list in Python. They are defined using square brackets [] and can be used to create a list of squares of a given number.
 
-#Useful Operators
+# Useful Operators
 
 Python has a variety of operators that can be used to perform different operations. Some examples include the + operator for addition, the in operator for checking if an item is in a list, and the == operator for equality comparison.
 
